@@ -1,0 +1,6 @@
+com\springdemo2\model\Employee.class
+com\springdemo2\DAO\Mydaorepository.class
+com\springdemo2\services\Myservice.class
+com\springdemo2\Controller\Mycontroller.class
+com\example\springdemo2\Springdemo2Application.class
+com\springdemo2\services\Myserviceimpl.class
